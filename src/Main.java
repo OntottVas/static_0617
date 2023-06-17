@@ -10,5 +10,6 @@ public class Main {
 
         // kérd le a statikus fieldet
 
+        // hívd meg a katasztofa metódust
     }
 }
